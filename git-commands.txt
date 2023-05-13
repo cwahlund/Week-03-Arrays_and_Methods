@@ -1,0 +1,56 @@
+Microsoft Windows [Version 10.0.19044.2965]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\cwahl>cd Promineo\BE-Promineo-Tech
+
+C:\Users\cwahl\Promineo\BE-Promineo-Tech>cd Week-03-Arrays_and_Methods
+
+C:\Users\cwahl\Promineo\BE-Promineo-Tech\Week-03-Arrays_and_Methods>echo "# Week-03-Arrays_and_Methods" >> README.md
+
+C:\Users\cwahl\Promineo\BE-Promineo-Tech\Week-03-Arrays_and_Methods>git init
+Initialized empty Git repository in C:/Users/cwahl/Promineo/BE-Promineo-Tech/Week-03-Arrays_and_Methods/.git/
+
+C:\Users\cwahl\Promineo\BE-Promineo-Tech\Week-03-Arrays_and_Methods>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\cwahl\Promineo\BE-Promineo-Tech\Week-03-Arrays_and_Methods>git add .
+
+C:\Users\cwahl\Promineo\BE-Promineo-Tech\Week-03-Arrays_and_Methods>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+
+
+C:\Users\cwahl\Promineo\BE-Promineo-Tech\Week-03-Arrays_and_Methods>git commit -m "first commit"
+[master (root-commit) ceb7913] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+C:\Users\cwahl\Promineo\BE-Promineo-Tech\Week-03-Arrays_and_Methods>git branch -M main
+
+C:\Users\cwahl\Promineo\BE-Promineo-Tech\Week-03-Arrays_and_Methods>git remote add origin https://github.com/cwahlund/Week-03-Arrays_and_Methods.git
+
+C:\Users\cwahl\Promineo\BE-Promineo-Tech\Week-03-Arrays_and_Methods>git push -u origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 239 bytes | 239.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/cwahlund/Week-03-Arrays_and_Methods.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\Users\cwahl\Promineo\BE-Promineo-Tech\Week-03-Arrays_and_Methods>
+
+https://screenrec.com/share/QjrEqY4e6v
